@@ -39,10 +39,10 @@
   
   
 
-## github repo (https://github.com/yashwantbpatil/AI-GenAI)
+## github repo (https://github.com/yashwantbpatil/capstone-repo/)
 
 ```
-AP-GenAI/
+capstone-repo/
 ├── mp1/
 │   ├── mp1_prompt_lab.py       # Python script which has end-to-end implementation
 │   ├── data/                   # directory containing provided data
